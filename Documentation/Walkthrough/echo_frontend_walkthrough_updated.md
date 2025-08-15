@@ -2,7 +2,7 @@
 
 ## Getting Around Echo's Interface
 
-This walkthrough shows you how to use Echo's features and what each screen does. No fluff - just what you need to know to get the most out of your private AI journal.
+This walkthrough shows you how to use Echo's features and what each screen does. 
 
 ---
 
@@ -71,7 +71,7 @@ After processing, you'll see three versions of your entry based on the processin
 
 ![Entry View](04-entry-view.png)
 
-**Left side**: Chronological list of all your entries
+**Left side**: Chronological list of all your entries  
 **Right side**: Full content of the selected entry
 
 **Features:**
@@ -91,7 +91,7 @@ Click any entry in the left list to view its full content on the right.
 
 Upload audio files to transcribe and process them like regular entries.
 
-**Supported formats**: .mp3, .wav, .m4a, .aac, .ogg, .flac, .webm
+**Supported formats**: .mp3, .wav, .m4a, .aac, .ogg, .flac, .webm  
 **Max file size**: 100MB
 
 After upload, Echo transcribes the audio and runs it through the same AI processing pipeline as typed entries. Useful for converting old voice memos into searchable journal entries.
@@ -108,7 +108,7 @@ Shows frequently used words in your journal entries. Larger words appear more of
 ### Mood Analysis
 ![Mood Graph](09-patterns-mood-graph.png)
 
-**Left side**: Timeline showing mood tags for each day
+**Left side**: Timeline showing mood tags for each day  
 **Right side**: Analytics showing your most frequent emotions with counts
 
 Echo automatically detects mood from your entries and tracks patterns over time. Helps you notice emotional trends you might miss day-to-day.
@@ -188,9 +188,9 @@ Most features work fine with default settings, but you can customize based on yo
 
 ## Getting Started Tips
 
-1. **Create your first entry** - type or record something to see how processing works
-2. **Try different processing modes** - see how Raw, Enhanced, and Structured versions differ
-3. **Ask Echo questions** - use the chat feature to search through your entries
-4. **Review memories regularly** - help Echo learn what information matters to you
-5. **Check pattern insights** - discover trends in your writing and mood
+1. **Create your first entry** - type or record something to see how processing works  
+2. **Try different processing modes** - see how Raw, Enhanced, and Structured versions differ  
+3. **Ask Echo questions** - use the chat feature to search through your entries  
+4. **Review memories regularly** - help Echo learn what information matters to you  
+5. **Check pattern insights** - discover trends in your writing and mood  
 6. **Set up multiple accounts** if you want separate spaces for work/personal use
