@@ -101,6 +101,9 @@ Echo turns scattered thoughts into an intelligent, searchable memory system:
 
 Once the launch script runs, Echo will automatically open in your default browser ([http://localhost:3000/](http://localhost:3000/)).
 
+## Walkthrough
+
+Want to see Echo in action? ([Walkthrough](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md))
 
 ## My Story
 
