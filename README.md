@@ -146,6 +146,7 @@ Once the launch script runs, Echo will automatically open in your default browse
 This project demonstrates AI-assisted development – I provided the vision, architecture decisions, and user experience design, while AI coding assistants handled the implementation. Every line of code was written by AI according to my specifications and requirements.
 
 ## Contributing
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 Echo is for people who believe your thoughts are too valuable for cloud storage and too important for basic text boxes. Whether you’re:
 
