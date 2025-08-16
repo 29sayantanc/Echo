@@ -9,6 +9,7 @@
 </div>
 
 
+
 ## The Problem: 
 
 Ever tried to dig up that brilliant idea from last Tuesday’s meeting… and found it buried under half-written notes, or a pile of voice memos you never listen to?  
@@ -19,6 +20,12 @@ Most journaling apps are just fancy text boxes. Note-taking apps spread your tho
 Type your thoughts directly, record them on the spot, or even paste in text from elsewhere. Got old voice notes? Drop them in — Echo transcribes and processes them so your ideas become searchable, connected, and actually useful.
 
 It’s not just storage – it’s your personal AI that remembers and connects your thoughts. And it doesn’t even need the internet to work. Imagine that.
+
+
+
+![ezgif-4410f834a9fa50](https://github.com/user-attachments/assets/61c0425b-e89a-44fb-a2e5-9a04f250da22)
+
+
 
 ## What is Echo?
 
