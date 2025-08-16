@@ -1,5 +1,10 @@
+<div align="center">
+
 # 🎙️ Echo – Your Private AI Journal
-([Frontend Walkthrough](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md)),            ([Backend Flow Diagram](https://29sayantanc.github.io/Echo/))
+
+[Frontend Walkthrough](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md) | [Backend Flow Diagram](https://29sayantanc.github.io/Echo/)
+
+</div>
 
 
 ## The Problem: 
