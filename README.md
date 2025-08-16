@@ -2,7 +2,9 @@
 
 # 🎙️ Echo – Your Private AI Journal
 
-[Frontend Walkthrough](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md) | [Backend Flow Diagram](https://29sayantanc.github.io/Echo/)
+[![Frontend Walkthrough](https://img.shields.io/badge/Frontend%20Walkthrough-blue?style=for-the-badge)](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md)
+&nbsp;&nbsp;&nbsp;
+[![Backend Flow Diagram](https://img.shields.io/badge/Backend%20Flow%20Diagram-brightgreen?style=for-the-badge)](https://29sayantanc.github.io/Echo/)
 
 </div>
 
