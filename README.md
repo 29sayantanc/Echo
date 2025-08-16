@@ -1,4 +1,14 @@
+<div align="center">
+
 # 🎙️ Echo – Your Private AI Journal
+
+[![Frontend Walkthrough](https://img.shields.io/badge/Frontend%20Walkthrough-blue?style=for-the-badge)](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md)
+&nbsp;&nbsp;&nbsp;
+[![Backend Flow Diagram](https://img.shields.io/badge/Backend%20Flow%20Diagram-brightgreen?style=for-the-badge)](https://29sayantanc.github.io/Echo/)
+
+</div>
+
+
 
 ## The Problem: 
 
@@ -10,6 +20,12 @@ Most journaling apps are just fancy text boxes. Note-taking apps spread your tho
 Type your thoughts directly, record them on the spot, or even paste in text from elsewhere. Got old voice notes? Drop them in — Echo transcribes and processes them so your ideas become searchable, connected, and actually useful.
 
 It’s not just storage – it’s your personal AI that remembers and connects your thoughts. And it doesn’t even need the internet to work. Imagine that.
+
+
+
+![ezgif-4410f834a9fa50](https://github.com/user-attachments/assets/61c0425b-e89a-44fb-a2e5-9a04f250da22)
+
+
 
 ## What is Echo?
 
@@ -101,9 +117,6 @@ Echo turns scattered thoughts into an intelligent, searchable memory system:
 
 Once the launch script runs, Echo will automatically open in your default browser ([http://localhost:3000/](http://localhost:3000/)).
 
-## Walkthrough
-
-Want to see Echo in action? ([Walkthrough](https://github.com/29sayantanc/Echo/blob/main/Documentation/Walkthrough/echo_frontend_walkthrough_updated.md))
 
 ## My Story
 
@@ -140,6 +153,7 @@ Want to see Echo in action? ([Walkthrough](https://github.com/29sayantanc/Echo/b
 This project demonstrates AI-assisted development – I provided the vision, architecture decisions, and user experience design, while AI coding assistants handled the implementation. Every line of code was written by AI according to my specifications and requirements.
 
 ## Contributing
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
 
 Echo is for people who believe your thoughts are too valuable for cloud storage and too important for basic text boxes. Whether you’re:
 
