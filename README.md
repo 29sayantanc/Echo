@@ -118,10 +118,6 @@ Echo turns scattered thoughts into an intelligent, searchable memory system:
 Once the launch script runs, Echo will automatically open in your default browser ([http://localhost:3000/](http://localhost:3000/)).
 
 
-## My Story
-
-*I Googled “what is an LLM” 2 months ago because I wanted to understand how AI actually works. I came into this without any substantial coding experience – just curiosity, a lot of reading, and the help of AI tools. Echo started as weekend tinkering, turned into something I use daily. Always open to suggestions and feedback!*
-
 ## Built With
 
 - **Backend**: Python + FastAPI + SQLite + Sentence Transformers
